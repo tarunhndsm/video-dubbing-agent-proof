@@ -1,0 +1,7 @@
+{
+  "name": "local-dubbing-proof",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {"@toon-format/toon": "4.4.0"}
+}

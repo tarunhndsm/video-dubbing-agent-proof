@@ -1,0 +1,31 @@
+{
+  "source_sha256": "a640b9d9884369573c4d257dadd58023c7b473822edabddc41232665a15d73a4",
+  "synthetic": true,
+  "duration": 38.18066666666667,
+  "sentences": [
+    {
+      "start": 0.65,
+      "end": 5.898,
+      "text": "Welcome to LumenDesk. This short lesson explains how to prepare a clear project brief.",
+      "speaker": "speaker-01"
+    },
+    {
+      "start": 9.398,
+      "end": 15.648666666666667,
+      "text": "First, describe the result you need. Then list the files, the deadline, and the people who will review the work.",
+      "speaker": "speaker-01"
+    },
+    {
+      "start": 19.148666666666667,
+      "end": 24.076666666666668,
+      "text": "Keep product names unchanged. Ask one clear question when a detail is missing.",
+      "speaker": "speaker-01"
+    },
+    {
+      "start": 27.576666666666668,
+      "end": 34.68066666666667,
+      "text": "Review the finished files before publishing. A useful report explains what was tested and what still needs confirmation.",
+      "speaker": "speaker-01"
+    }
+  ]
+}

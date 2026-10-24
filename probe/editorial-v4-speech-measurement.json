@@ -1,0 +1,48 @@
+{
+  "status": "measured",
+  "model": "faster-whisper small multilingual int8",
+  "source": "final mixed dub-fr.wav, individually cropped to measured dub windows",
+  "seconds": 7.662,
+  "lines": [
+    {
+      "id": "line-001",
+      "expected": "Bienvenue à LumenDesk. Cette courte leçon explique comment préparer un cahier des charges clair.",
+      "recognized": "Bienvenue à Lomendesk, cette courte leçon explique comment préparer un cahier des charges claires.",
+      "reference_words": 14,
+      "matched_words": 12,
+      "word_recall": 0.8571428571428571,
+      "final_word_matches": false
+    },
+    {
+      "id": "line-002",
+      "expected": "D'abord, décrivez le résultat dont vous avez besoin. Ensuite, indiquez les fichiers, la date limite et les personnes qui examineront le travail.",
+      "recognized": "D'abord, décrivez le résultat dont vous avez besoin. Ensuite, indiquez les fichiers, la date limite et les personnes qui examineront le travail.",
+      "reference_words": 23,
+      "matched_words": 23,
+      "word_recall": 1.0,
+      "final_word_matches": true
+    },
+    {
+      "id": "line-003",
+      "expected": "Conservez les noms des produits tels quels. Posez une seule question claire lorsqu'un détail manque.",
+      "recognized": "conserver les noms des produits telles qu'elles, poser une seule question claire lorsqu'un détail manque.",
+      "reference_words": 16,
+      "matched_words": 12,
+      "word_recall": 0.75,
+      "final_word_matches": true
+    },
+    {
+      "id": "line-004",
+      "expected": "Vérifiez les fichiers terminés avant de les publier. Un rapport utile explique ce qui a été testé et ce qui reste à confirmer.",
+      "recognized": "Vérifiez les fichiers terminés avant de les publier. Un rapport utile explique ce qui a été testé et ce qui reste à confirmer.",
+      "reference_words": 23,
+      "matched_words": 23,
+      "word_recall": 1.0,
+      "final_word_matches": true
+    }
+  ],
+  "limits": [
+    "ASR agreement is not fluent human review or a guarantee of semantic equivalence.",
+    "Protected-name pronunciation needs a fluent listener; ASR spelling can differ."
+  ]
+}

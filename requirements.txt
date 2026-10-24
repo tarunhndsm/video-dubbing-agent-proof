@@ -1,0 +1,12 @@
+kokoro-onnx==0.6.1
+numpy==2.2.6
+Pillow==11.3.0
+soundfile==0.13.1
+torch==2.8.0
+torchaudio==2.8.0
+transformers==4.55.4
+sentencepiece==0.2.1
+sacremoses==0.1.1
+faster-whisper==1.2.1
+huggingface-hub==0.34.4
+demucs==4.0.1

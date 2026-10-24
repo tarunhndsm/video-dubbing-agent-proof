@@ -1,0 +1,70 @@
+{
+  "source_sha256": "a640b9d9884369573c4d257dadd58023c7b473822edabddc41232665a15d73a4",
+  "source_language": "en",
+  "target_language": "fr",
+  "origin": "automatic faster-whisper small.en; review required",
+  "lines": [
+    {
+      "id": "line-001",
+      "start": 0.34,
+      "end": 5.7,
+      "text": "Welcome to LumenDesk. This short lesson explains how to prepare a clear project brief.",
+      "speaker": "speaker-01",
+      "translation": "Bienvenue à LumenDesk. Cette courte leçon explique comment préparer un mémoire de projet clair.",
+      "dub_start": 0.34,
+      "dub_end": 5.88360544217687,
+      "speed": 1.0,
+      "stock_voice": "ff_siwis",
+      "raw_seconds": 5.546666666666667,
+      "glossary_pronunciation": [
+        {
+          "term": "LumenDesk",
+          "language": "en-us",
+          "phonemes": "lˈuːmɛn dˈɛsk"
+        }
+      ]
+    },
+    {
+      "id": "line-002",
+      "start": 9.58,
+      "end": 15.52,
+      "text": "First, describe the result you need. Then list the files, the deadline, and the people who will review the work.",
+      "speaker": "speaker-01",
+      "translation": "D'abord, décrivez le résultat dont vous avez besoin. Ensuite, listez les fichiers, la date limite et les personnes qui examineront le travail.",
+      "dub_start": 9.58,
+      "dub_end": 17.706643990929706,
+      "speed": 1.0,
+      "stock_voice": "ff_siwis",
+      "raw_seconds": 8.128,
+      "glossary_pronunciation": []
+    },
+    {
+      "id": "line-003",
+      "start": 19.22,
+      "end": 23.92,
+      "text": "Keep product names unchanged. Ask one clear question when a detail is missing.",
+      "speaker": "speaker-01",
+      "translation": "Gardez les noms des produits inchangés. Posez une question claire lorsqu'un détail manque.",
+      "dub_start": 19.22,
+      "dub_end": 24.08238095238095,
+      "speed": 1.0,
+      "stock_voice": "ff_siwis",
+      "raw_seconds": 4.864,
+      "glossary_pronunciation": []
+    },
+    {
+      "id": "line-004",
+      "start": 27.65,
+      "end": 34.19,
+      "text": "Review the finished files before publishing. A useful report explains what was tested and what still needs confirmation.",
+      "speaker": "speaker-01",
+      "translation": "Examiner les dossiers terminés avant de publier. Un rapport utile explique ce qui a été testé et ce qui a encore besoin de confirmation.",
+      "dub_start": 27.65,
+      "dub_end": 35.79451247165533,
+      "speed": 1.0,
+      "stock_voice": "ff_siwis",
+      "raw_seconds": 8.149333333333333,
+      "glossary_pronunciation": []
+    }
+  ]
+}

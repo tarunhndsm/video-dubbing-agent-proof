@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "request_sha256": "daefaa7e92a601c96bfbd80ab6b5e2a76a82dc4f1c60b510a3bc16e370dd89ef",
+  "source": {
+    "duration": 38.181,
+    "width": 1280,
+    "height": 720,
+    "sha256": "a640b9d9884369573c4d257dadd58023c7b473822edabddc41232665a15d73a4"
+  },
+  "brief": {
+    "rights_confirmed": true,
+    "target_languages": [
+      "fr"
+    ],
+    "voice_mode": "stock",
+    "glossary": [
+      "LumenDesk"
+    ]
+  },
+  "code_sha256": {
+    "backend.py": "aaa9a73ab07c5d48acd9ab51de6c07bc1cd784d5befa8f6ccc9fc0cbad6ac503",
+    "dub_core.py": "1d853849fcd078821bbb5a5d810c6ca94728174f4ff9453ae74ab743f67e887b",
+    "dub_audio.py": "0173d2f8e56d4f7d74aa4a0bc88ea2c94c25228fbcacb35dd74ba1e356e33ac6",
+    "dub_models.py": "4055c4d7d0a8e8a5f5e6080c747cd30ceeef1e720ff15a43b7ec51687cee88e8",
+    "dub_render.py": "ddf663686ce748f433e8f5fcf96f334d6dcc3489054a38249873032119e64496"
+  },
+  "summary": {
+    "lines": 4,
+    "master_gain": 1.0,
+    "duration": 38.181,
+    "backing_tail_alignment_samples": 250
+  },
+  "files": {
+    "REPORT.md": {
+      "bytes": 2531,
+      "sha256": "2dda38b2ff12a2706ceda6e549da39fe3593ceb43793d3389fa161e7c34071ae"
+    },
+    "dub-fr.mp4": {
+      "bytes": 1008284,
+      "sha256": "957007c49974a9b79fdd72c6aecc75abfc6d9d903d3af29dccc03351d15f09a4"
+    },
+    "dub-fr.srt": {
+      "bytes": 613,
+      "sha256": "85d80a1210eaa5a3e35f444a5e927f7832b58d901d7ffce2b7f38b4a9101e654"
+    },
+    "dub-fr.wav": {
+      "bytes": 6735172,
+      "sha256": "5fb6f8fdeed36c168b93324330c4e4e85319ec01240722f53a865f92d68f8b75"
+    },
+    "translated-script.json": {
+      "bytes": 2678,
+      "sha256": "973d2534872f46c791064fa58ae6f09e59fae2117c1acb7ae5fc8316d658714d"
+    }
+  },
+  "earningsVerified": false
+}

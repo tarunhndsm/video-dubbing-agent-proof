@@ -1,0 +1,22 @@
+1
+00:00:00,340 --> 00:00:05,884
+Bienvenue à LumenDesk. Cette courte leçon explique
+comment préparer un mémoire de projet clair.
+
+2
+00:00:09,580 --> 00:00:17,707
+D'abord, décrivez le résultat dont vous avez
+besoin. Ensuite, listez les fichiers, la date
+limite et les personnes qui examineront le
+travail.
+
+3
+00:00:19,220 --> 00:00:24,082
+Gardez les noms des produits inchangés. Posez une
+question claire lorsqu'un détail manque.
+
+4
+00:00:27,650 --> 00:00:35,795
+Examiner les dossiers terminés avant de publier.
+Un rapport utile explique ce qui a été testé et ce
+qui a encore besoin de confirmation.

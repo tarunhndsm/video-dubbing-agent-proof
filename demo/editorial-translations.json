@@ -1,0 +1,27 @@
+{
+  "source_sha256": "a640b9d9884369573c4d257dadd58023c7b473822edabddc41232665a15d73a4",
+  "target_language": "fr",
+  "review_type": "ai_editorial",
+  "lines": [
+    {
+      "id": "line-001",
+      "source_text": "Welcome to LumenDesk. This short lesson explains how to prepare a clear project brief.",
+      "translation": "Bienvenue à LumenDesk. Cette courte leçon explique comment préparer un cahier des charges clair."
+    },
+    {
+      "id": "line-002",
+      "source_text": "First, describe the result you need. Then list the files, the deadline, and the people who will review the work.",
+      "translation": "D'abord, décrivez le résultat dont vous avez besoin. Ensuite, indiquez les fichiers, la date limite et les personnes qui examineront le travail."
+    },
+    {
+      "id": "line-003",
+      "source_text": "Keep product names unchanged. Ask one clear question when a detail is missing.",
+      "translation": "Conservez les noms des produits tels quels. Posez une seule question claire lorsqu'un détail manque."
+    },
+    {
+      "id": "line-004",
+      "source_text": "Review the finished files before publishing. A useful report explains what was tested and what still needs confirmation.",
+      "translation": "Vérifiez les fichiers terminés avant de les publier. Un rapport utile explique ce qui a été testé et ce qui reste à confirmer."
+    }
+  ]
+}
